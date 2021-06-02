@@ -1,10 +1,12 @@
 import React from 'react'
 import Link from '../../src/Link'
+// import Mui_Dialog from '/pages//materialUi/dialog'
+// css
+import css from '../styles/base.scss'
 
-import Mui_Dialog from '/pages//materialUi/dialog'
-export default function index () {
+export default function index() {
     return (
-        <div>
+        <div className={css.example}>
             <h2>Mui_Dialog </h2>
             {/* <Mui_Dialog /> */}
             <Link href='/materialUi/dialog' color='secondary'>
