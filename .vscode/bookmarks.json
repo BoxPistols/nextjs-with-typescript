@@ -9,6 +9,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "src/components/atoms/button/index.jsx",
+			"bookmarks": [
+				{
+					"line": 29,
+					"column": 26,
+					"label": ""
+				}
+			]
 		}
 	]
 }

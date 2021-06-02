@@ -1,6 +1,6 @@
 {
     "editor.formatOnSave": true,
-    "files.autoSave": "afterDelay",
     "path-autocomplete.extensionOnImport": true,
-    "editor.autoIndent": "none"
+    "editor.autoIndent": "none",
+    "standard.autoFixOnSave": true
 }
