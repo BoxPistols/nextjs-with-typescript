@@ -14,7 +14,7 @@ export default function About () {
                     Next.js with TypeScript example
                 </Typography>
                 <Link href='/'>Go to the main page</Link>
-                <Link href='/material' color='secondary'>
+                <Link href='/materialUi' color='secondary'>
                     Go to the material page
                 </Link>
                 <ProTip />

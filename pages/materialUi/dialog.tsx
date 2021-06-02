@@ -23,7 +23,7 @@ const useStyle = makeStyles({
     }),
 })
 
-export default function Material () {
+export default function Mui_Dialog () {
     const [dialogOpen, setDialogOpen] = useState(false)
     const classes = useStyle(useTheme())
     return (

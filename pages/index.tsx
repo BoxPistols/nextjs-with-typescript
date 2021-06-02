@@ -16,7 +16,7 @@ export default function Index () {
                 <Link href='/about' color='secondary'>
                     Go to the about page
                 </Link>
-                <Link href='/material' color='secondary'>
+                <Link href='/materialUi' color='secondary'>
                     Go to the material page
                 </Link>
                 <ProTip />
