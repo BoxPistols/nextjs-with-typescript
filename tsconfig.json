@@ -30,5 +30,5 @@
         "next-env.d.ts",
         "**/*.ts",
         "**/*.tsx"
-    ]
+, "src/components/atoms/button/index.jsx", "src/components/atoms/button/index.stories.jsx"    ]
 }
